@@ -15,7 +15,7 @@ def lambda_handler(event, context):
             'Tags': [
                 {
                     'Key': 'Name',
-                    'Value': 'server_from_lambda_boto3_git'
+                    'Value': 'server_from_lambda_boto3_git_command'
                 },
             ]
         },
